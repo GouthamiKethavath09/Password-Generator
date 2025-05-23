@@ -16,7 +16,7 @@ A simple and customizable web-based Password Generator that helps users create s
 - Responsive and user-friendly interface
 
 ## 🖥️ Demo
-![Password Generator UI Screenshot](screenshot.png)  
+(screenshot.png)  
 *(![image](https://github.com/user-attachments/assets/490884e5-ebc5-49be-b20f-d714b4bdde79)
 )*
 
